@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoith95/Pet-go/main/KiTTYWARE"))()
